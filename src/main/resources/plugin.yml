@@ -1,0 +1,6 @@
+author: GUIpsp
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: net.guipsp.spawneggblock.SpawnEggBlock
+name: SpawnEggBlock
+startup: postworld
+version: '0.1'
